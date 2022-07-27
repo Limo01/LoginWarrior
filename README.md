@@ -6,6 +6,8 @@ The application is reachable [here](https://codesixswe.github.io/).
 * Different type of chart to plot - Scatterplot, ForceDirected Field, Parallel Coordinates and Sankey Diagram
 * Dimensional Reduction using T-SNE or UMAP algorithms
 * Distance Matrices calculation
+* Load data in _.csv_ file format
+* Save and resume session
 
 ## Screenshot
 #### Scatterplot
