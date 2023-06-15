@@ -2,7 +2,7 @@
 React application to plot different type of charts. <br>
 The application is reachable [here](https://codesixswe.github.io/).
 
-## Feature
+## Features
 * Different type of chart to plot - Scatterplot, ForceDirected Field, Parallel Coordinates and Sankey Diagram
 * Dimensional Reduction using T-SNE or UMAP algorithms
 * Distance Matrices calculation
